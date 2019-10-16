@@ -29,7 +29,7 @@ Means of analysis used included
 
   Calculation of mean and std deviation
   
-  Calculation of quantiles (25, 50 and 75 quantiles
+  Calculation of quantiles (25, 50 and 75 quantiles)
   
   Study of skewness and distributions of scores
   
@@ -53,13 +53,13 @@ Share about past record of 2 years to show how the cohorts have done well
 
 Ave SAT scores have grown along with SAT participation rates
 
-Provide support to administrative faculty in organising for the test and students taking up the test - for furtehr discussion
+Provide support to administrative faculty in organising for the test and students taking up the test - for further discussion
 
 Conduct test on weekday to ensure high participation - for further discussion
 
-Any other incentives for administrators - for further discussion
+Explore other incentives for administrators - for further discussion
 
-Feedback from colleges / institutes of higher learning on how SAT can be made more holistic
+Feedback from colleges / institutes of higher learning on how SAT can be made more holistic in nature so as to cater to their admission criteria
 
 
 
